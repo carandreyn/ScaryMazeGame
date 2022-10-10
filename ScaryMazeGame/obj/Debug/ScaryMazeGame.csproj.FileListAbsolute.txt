@@ -1,0 +1,12 @@
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\bin\Debug\ScaryMazeGame.exe.config
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\bin\Debug\ScaryMazeGame.exe
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\bin\Debug\ScaryMazeGame.pdb
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.csproj.AssemblyReference.cache
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.Form1.resources
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.Properties.Resources.resources
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.csproj.GenerateResource.cache
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.exe
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.pdb
+C:\Users\caran\source\repos\ScaryMazeGame\ScaryMazeGame\obj\Debug\ScaryMazeGame.ScareWindow.resources
